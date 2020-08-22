@@ -190,8 +190,7 @@
      	    transform: rotate(180deg);
      	   
      }
-     .text4{
-     	visibility: hidden;
+     .text4{display:none;
      	font-size: 1px;
      }
      .resume {
@@ -362,8 +361,7 @@
           .ol1 {
           	margin-left: 10vw;
           }
-       .text2 {
-       	visibility: hidden;
+       .text2 {display:none;
        }
       a {
      	text-decoration: none;
